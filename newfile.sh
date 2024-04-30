@@ -1,1 +1,1 @@
-Andariki Namaskaram
+echo "Andariki Namaskaram"
