@@ -1,1 +1,1 @@
-This is a Script from GitHUb
+echo "This is a Script from GitHUb"
